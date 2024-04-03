@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+BebopControl.py
+=====================
+Author: SHUI Yuyang
+Date: 2024/MAR/21
+Python Version: 3.10.13
+"""
 import clr
 import sys
 import os
